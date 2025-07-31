@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning java , html , css.<br>Tech stack : C .<br>Fun fact : My code runs perfectly... after countless debug sessions  ! <br>
+Currently learning: Python .<br>Tech stack : C,java,html,css .<br>Fun fact : My code runs perfectly... after countless debug sessions  ! <br>
 
 
 ## 🌐 Socials:
